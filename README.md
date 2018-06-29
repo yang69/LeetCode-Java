@@ -10,3 +10,4 @@ Click title will bring you to LeetCode, click java to view the code, click edito
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)| [Java](./src/main/java/sum/TwoSum.java) , [Editorial](https://leetcode.com/articles/two-sum)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)| [Java](./src/main/java/list/AddTwoNumbers.java) , [Editorial](https://leetcode.com/articles/add-two-numbers)|Medium|
