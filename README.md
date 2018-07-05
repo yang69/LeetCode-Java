@@ -16,3 +16,4 @@ Click title will bring you to LeetCode, click java to view the code, click edito
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)| [Java](./src/main/java/string/palindrome/LongestPalindromicSubstring.java) , [Editorial](https://leetcode.com/articles/longest-palindromic-substring)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)| [Java](./src/main/java/string/ZigZagConversion.java) , [Editorial](https://leetcode.com/articles/zigzag-conversion)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)| [Java](./src/main/java/number/convert/ReverseInteger.java) , [Editorial](https://leetcode.com/articles/reverse-integer)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)| [Java](./src/main/java/number/convert/StringToInteger.java) |Medium|
